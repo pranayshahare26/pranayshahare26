@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pranayshahare31@gmail.com**
 
-- ⚡ Fun fact **I think Your are Funny**
+- ⚡ Fun fact **I think You are Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
