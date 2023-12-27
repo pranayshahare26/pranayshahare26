@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Python, SWL, HPC, OpenMP, MPI, CUDA**
+- 💬 Ask me about **Python, SQL, HPC, OpenMP, MPI, CUDA**
 
 - 📫 How to reach me **pranayshahare31@gmail.com**
 
