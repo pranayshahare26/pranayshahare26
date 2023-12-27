@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayshahare26&label=Profile%20views&color=0e75b6&style=flat" alt="pranayshahare26" /> </p>
 
-- 🌱 I’m currently learning **High Performance Computing in Application Programming**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **HPC, OpenMP, MPI, CUDA**
+- 💬 Ask me about **Python, SWL, HPC, OpenMP, MPI, CUDA**
 
 - 📫 How to reach me **pranayshahare31@gmail.com**
 
