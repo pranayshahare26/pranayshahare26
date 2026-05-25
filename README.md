@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayshahare26&label=Profile%20views&color=0e75b6&style=flat" alt="pranayshahare26" /> </p>
 
-- 👨‍💼 I’m currently working as **Associate Engineer at Eviden**
+- 👨‍💼 I’m currently working as **Senior Associate Engineer at Bull**
 
 - 🌱 I’m passionate about **Application Programming and Advanced Computing**
 
 - 💬 Ask me about **HPC, OpenMP, MPI, Linux Shell Scripting**
 
-- 📫 How to reach me: **pranay.shahare@eviden.com**
+- 📫 How to reach me: **pranay.shahare@bull.com**
 
 - ⚡ Fun fact: **I enjoy playing cricket and engaging in social activities**
 
@@ -25,7 +25,7 @@ I'm a passionate Advanced Computing student with a specialization in application
 
 <h3 align="left">Experience:</h3>
 <p>
-🔹 **Associate Engineer | Eviden**
+🔹 **Senior Associate Engineer | Bull**
 </p>
 
 ---
